@@ -1,0 +1,7 @@
+colorama
+numpy
+azure-cognitiveservices-vision-computervision
+pillow
+opencv-python
+opencv-contrib-python
+requests
